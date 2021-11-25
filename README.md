@@ -3,7 +3,7 @@
 ```js
 const brayansuamon = {
 pronouns: "he" | "him",
-code: [Css, HTML, JavaScript,SASS,Hooks,Api's,R-Cran]
+code: [Css, HTML, JavaScript, SASS, Hooks, Api's, R-Cran, Bizagi]
 tools:[React,Linux]
 }
 
