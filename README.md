@@ -1,6 +1,6 @@
 ### Hi there, I'm Brayan Alejandro Suarez Monroy 👋
 
-I'm engineer and FrontEnd Developer. 
+I'm engineer and FrontEnd Developer. <img alt="GIF" width="26px" src="https://giphy.com/embed/jRTZv7r2S2kJ2tkdn7" /> 
 I think innovation is the way to forge the future of companies, and that is a reason why I am constantly learning and researching. 
 
 
