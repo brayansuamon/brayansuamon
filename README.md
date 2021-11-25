@@ -10,7 +10,7 @@ I think innovation is the way to forge the future of companies, and that is a re
 - 🤔 I’m looking for help with Node and SQL
 - 💬 Ask me about some problem and I could share my knowledge with you to get a solution. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brayan-suarezm/)
-- 😄 Languajes: English (B2) & Spanish (Native)
+- 😄 Languajes: English & Spanish
 - ⚡ Tools:
 ```js
 const brayansuamon = {
