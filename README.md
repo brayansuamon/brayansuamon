@@ -20,8 +20,11 @@ tools:[React,Linux]
 
 ```
 - 📫 Languajes: 
-  [English]
-  [Spanish]
+      -English (B2)
+      -Spanish (Native)
+      
+ You can Find me:
+ [LinkedIn]{https://www.linkedin.com/in/brayan-suarezm/}
 
 
 <!--
