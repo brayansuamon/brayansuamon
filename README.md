@@ -24,7 +24,7 @@ tools:[React,Linux]
       -Spanish (Native)
       
  You can Find me:
- [LinkedIn]{https://www.linkedin.com/in/brayan-suarezm/}
+ [LinkedIn](https://www.linkedin.com/in/brayan-suarezm/)
 
 
 <!--
