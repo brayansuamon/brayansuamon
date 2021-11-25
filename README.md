@@ -1,10 +1,10 @@
 ### Hi there, I'm Brayan Alejandro Suarez Monroy 👋
 
+![Foto2](https://user-images.githubusercontent.com/87401847/143484213-0cb3b216-4e5b-4863-bf9d-dc2bcec79232.jpeg)(width="20px" heigth="20px")
+
 I'm engineer and FrontEnd Developer. 
 I think innovation is the way to forge the future of companies, and that is a reason why I am constantly learning and researching. 
 Multicultural work is facilitated for me, and I enjoy having different points of view.
-
-
 
 ```js
 const brayansuamon = {
