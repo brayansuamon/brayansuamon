@@ -1,5 +1,5 @@
 ### Hi there, I'm Brayan Alejandro Suarez Monroy 👋
-![Foto2](https://user-images.githubusercontent.com/87401847/143484213-0cb3b216-4e5b-4863-bf9d-dc2bcec79232.jpeg)[height:20px,width:20px]
+![Foto2](https://user-images.githubusercontent.com/87401847/143484213-0cb3b216-4e5b-4863-bf9d-dc2bcec79232.jpeg)
 
 ```js
 const brayansuamon = {
