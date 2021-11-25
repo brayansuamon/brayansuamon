@@ -8,9 +8,11 @@ I think innovation is the way to forge the future of companies, and that is a re
 - 👯 I’m looking to collaborate on companies with passion and love for what they do
 - 🤔 I’m looking for help with Node and SQL
 - 💬 Ask me about some problem and I could share my knowledge with you to get a solution. 
-- 📫 How to reach me:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brayan-suarezm/)
     
-- 😄 Pronouns: ...
+- 😄 Languajes: 
+      -English (B2)
+      -Spanish (Native)
 - ⚡ Tools:
 ```js
 const brayansuamon = {
@@ -19,12 +21,7 @@ tools:[React,Linux]
 }
 
 ```
-- 📫 Languajes: 
-      -English (B2)
-      -Spanish (Native)
-      
- You can Find me:
- [LinkedIn](https://www.linkedin.com/in/brayan-suarezm/)
+
 
 
 <!--
