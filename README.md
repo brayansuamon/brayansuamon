@@ -1,4 +1,4 @@
-### Hi there, I'm Brayan 👋
+### Hi there, I'm Brayan Alejandro Suarez Monroy 👋
 ![Foto2](https://user-images.githubusercontent.com/87401847/143484213-0cb3b216-4e5b-4863-bf9d-dc2bcec79232.jpeg)
 
 ```js
@@ -10,7 +10,6 @@ tools:[React,Linux]
 
 ```
 You can Find me 
-[![brayansuamon GitHub stats](https://github-readme-stats.vercel.app/api?username=brayansuamon)](https://github.com/brayansuamon/github-readme-stats)
 
 <!--
 **brayansuamon/brayansuamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
