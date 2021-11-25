@@ -16,7 +16,7 @@ I think innovation is the way to forge the future of companies, and that is a re
 ```js
 const brayansuamon = {
 code: [Css, HTML, JavaScript, SASS, Hooks, Api's, R-Cran, Bizagi]
-tools:[React,Linux]
+tools:[React, Linux]
 }
 ```
 
