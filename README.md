@@ -4,7 +4,7 @@ I'm engineer and FrontEnd Developer.
 I think innovation is the way to forge the future of companies, and that is a reason why I am constantly learning and researching. 
 
 
-🌱 Multicultural work is facilitated for me, and I enjoy having different points of view.
+-🌱 Multicultural work is facilitated for me, and I enjoy having different points of view.
 🔭 I’m currently working on a website to search giphs using api fetch with Giphos
 👯 I’m looking to collaborate on companies with passion and love for what they do
 🤔 I’m looking for help with Node and SQL
